@@ -6,6 +6,8 @@
 
 A command line application for accessing and altering a database of employees and their roles.
 
+Tutorial video can be found here: https://drive.google.com/file/d/1lCKC67zbs6vjcSdIOSu8UPyRrSJ-CK3B/view
+
 ## Table of Contents
 
 - [Installation](#installation)
